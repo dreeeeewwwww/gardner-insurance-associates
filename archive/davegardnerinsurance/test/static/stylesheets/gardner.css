@@ -1,0 +1,167 @@
+/* Gardner Insurance Main Styles */
+
+body{
+	font-family:arial, sans-serif;
+	font-size:12.5px;
+	line-height:;
+	color:#333;
+	background:#fff;
+	background-image:url(../img/.png);
+	background-repeat:no-repeat;
+	background-attachment:;
+	background-position:50px 50px;
+}
+
+.coming_soon{
+	position:absolute;
+	top:35px;
+	left:50px;
+}
+
+/*
+.wrap{
+	width:700px;
+	margin-top:250px;
+	margin-right:auto;
+	margin-bottom:50px;
+	margin-left:auto;
+	position:;
+
+}
+*/
+
+.top_trans{
+	width:100%;
+	height:283px;
+	background-image:url(../img/top_trans_02.png);
+	background-repeat:repeat-x;
+	background-position:0 0;
+	
+	position:absolute;
+	top:0;
+	left:0;
+	z-index:;
+}
+
+.top_wrap{
+	margin:0 0 70px 0;
+	padding:0;
+	position:relative;
+}
+
+.wrap{
+	width:750px;
+	margin-top:30px;
+	margin-right:auto;
+	margin-bottom:50px;
+	margin-left:auto;
+	position:relative;
+	padding:0 50px 0 50px;
+
+}
+
+.content{
+	background:#;
+	margin:;
+	padding:0 58px 0 58px;
+	
+	border-left:;
+}
+
+.content ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+
+.content ul li{
+	margin:0 0 10px 0;
+	padding:0;
+}
+
+.h{
+	border-top:1px solid #999;
+	padding:15px 0 0 0;
+}
+
+.column_about{
+	width:300px;
+	margin:0 20px 20px 0;
+	
+	float:left;
+}
+
+.column_services{
+	width:300px;
+	margin:0 0 20px 0;
+	padding:0;
+	float:left;
+}
+
+.column_contact{
+	clear:both;
+}
+
+ul.contact{
+	margin:0;
+	padding:0;
+	list-style-type:none;
+	clear:both;
+	display:inline;
+}
+
+ul.contact li{
+	width:140px;
+	margin:0 20px 0 0;
+	float:left;
+	display:inline;
+}
+
+em{
+	font-weight:bold;
+}
+
+
+ul.nav{
+	margin:0 0 0 15px;
+	padding:0;
+	list-style-type:none;
+	float:left;
+	display:inline;
+}
+
+ul.nav li{
+	width:65px;
+	height:20px;
+	margin:0 4px 0 0;
+	padding:0 5px 0 5px;
+	list-style-type:none;
+	float:left;
+	display:inline;
+	background:url(../img/nav_test.png);
+}
+
+h1{
+	font-size:3em;
+	font-style:italic;
+	padding:0;
+	margin:0 0 0 30px;
+	line-height:0.95em;
+}
+
+h2{
+	width:100%;
+	font-size:1em;
+	font-style:italic;
+	color:#666;
+	text-transform:uppercase;
+	letter-spacing:.5em;
+	margin:0 0 15px 0;
+	padding:0 0 15px 0;
+	border-bottom:1px solid #666;
+}
+
+p{
+	margin:0 0 10px 0;
+}
+
